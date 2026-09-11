@@ -405,15 +405,6 @@
             position: absolute;
         }
 
-        .photo-frame::before {
-            background:
-                linear-gradient(145deg, transparent 45%, rgba(16, 47, 76, 0.06) 45% 46%, transparent 46%),
-                radial-gradient(circle at 65% 28%, rgba(255, 255, 255, 0.9), transparent 30%);
-            content: "";
-            inset: 0;
-            position: absolute;
-        }
-
         .photo-placeholder {
             align-items: center;
             color: var(--navy-800);
