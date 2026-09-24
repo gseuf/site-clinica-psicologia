@@ -77,6 +77,7 @@
 
 .eyebrow span {
             color: var(--blue-300);
+            margin-bottom: 18px;
 }
 
         .eyebrow::before {
@@ -551,13 +552,6 @@
             margin-left: auto;
             margin-right: auto;
             max-width: none;
-        }
-
-        .concerns .section-heading .eyebrow,
-        .approach .section-heading .eyebrow,
-        .details .section-heading .eyebrow,
-        .reviews .section-heading .eyebrow {
-            justify-content: center;
         }
 
         .reviews .section-heading h2 {
