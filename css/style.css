@@ -737,17 +737,17 @@
 
         .review-avatar {
             align-items: center;
-            background: var(--blue-300);
+            background: var(--navy-800);
             border-radius: 50%;
-            color: var(--navy-950);
+            color: var(--warm-white);
             display: flex;
             flex: 0 0 auto;
             font-family: "Newsreader", serif;
             font-size: 1.25rem;
             font-weight: 500;
-            height: 54px;
+            height: 48px;
             justify-content: center;
-            width: 54px;
+            width: 48px;
         }
 
         .review-name {
