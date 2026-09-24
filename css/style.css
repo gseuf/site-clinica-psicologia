@@ -86,6 +86,10 @@
             width: 28px;
         }
 
+.eyebrow:has(span) {
+    color: var(--blue-300);
+}
+
         h1,
         h2,
         h3,
