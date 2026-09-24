@@ -75,7 +75,7 @@
             text-transform: uppercase;
         }
 
-.eyebrow span {
+.eyebrow div {
             color: var(--blue-300);
             margin-bottom: 18px;
 }
