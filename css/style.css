@@ -75,7 +75,7 @@
             text-transform: uppercase;
         }
 
-.eyebrow div {
+.eyebrow .first-contact {
             color: var(--blue-300);
             margin-bottom: 18px;
 }
@@ -87,9 +87,9 @@
             width: 28px;
         }
 
-/* .eyebrow:has(span) {
+.eyebrow:has(.first-contact) {
     color: var(--blue-300);
-} */
+}
 
         h1,
         h2,
